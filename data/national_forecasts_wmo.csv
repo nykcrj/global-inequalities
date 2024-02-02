@@ -1,0 +1,207 @@
+Region,Country,Forecast,iso3
+Africa,Algeria,1,DZA
+Africa,Angola,0,AGO
+Africa,Benin,0,BEN
+Africa,Botswana,1,BWA
+Africa,Burkina Faso,0,BFA
+Africa,Burundi,0,BDI
+Africa,Cabo Verde,0,CPV
+Africa,Cameroon,1,CMR
+Africa,Central African Republic,0,CAF
+Africa,Chad,0,TCD
+Africa,Comoros,0,COM
+Africa,Congo,0,COG
+Africa,Côte d'Ivoire,0,CIV
+Africa,Democratic Republic of the Congo,0,COD
+Africa,Djibouti,0,DJI
+Africa,Egypt,1,EGY
+Africa,Eritrea,0,ERI
+Africa,Eswatini,0,SWZ
+Africa,Ethiopia,1,ETH
+Africa,Gabon,0,GAB
+Africa,Gambia (The),0,GMB
+Africa,Ghana,1,GHA
+Africa,Guinea,0,GIN
+Africa,Guinea-Bissau,0,GNB
+Africa,Kenya,1,KEN
+Africa,Lesotho,0,LSO
+Africa,Liberia,0,LBR
+Africa,Libya (State of),1,LBY
+Africa,Madagascar,1,MDG
+Africa,Malawi,0,MWI
+Africa,Mali,1,MLI
+Africa,Mauritania,0,MRT
+Africa,Mauritius,1,MUS
+Africa,Morocco,0,MAR
+Africa,Mozambique,0,MOZ
+Africa,Namibia,0,NAM
+Africa,Niger,0,NER
+Africa,Nigeria,1,NGA
+Africa,Portugal - Madeira,0,
+Africa,Rwanda,1,RWA
+Africa,Sao Tome and Principe,0,STP
+Africa,Senegal,1,SEN
+Africa,Seychelles,0,SYC
+Africa,Sierra Leone,0,SLE
+Africa,Somalia,0,SOM
+Africa,South Africa,0,ZAF
+Africa,South Sudan,0,SSD
+Africa,Spain - Canary Islands,0,
+Africa,Spain - Ceuta,0,
+Africa,Spain - Melilla,0,
+Africa,Sudan,0,SDN
+Africa,Togo,0,TGO
+Africa,Tunisia,0,TUN
+Africa,Uganda,0,UGA
+Africa,United Republic of Tanzania,1,TZA
+Africa,Zambia,1,ZMB
+Africa,Zimbabwe,0,ZWE
+Asia,Afghanistan,0,AFG
+Asia,Bahrain,1,BHR
+Asia,Bangladesh,0,BGD
+Asia,Bhutan,0,BTN
+Asia,Cambodia,0,KHM
+Asia,China,1,CHN
+Asia,Democratic People's Republic of Korea,1,PRK
+Asia,"Hong Kong, China",0,
+Asia,India,1,IND
+Asia,Iran (Islamic Republic of),0,IRN
+Asia,Iraq,0,IRQ
+Asia,Japan,1,JPN
+Asia,Kazakhstan,1,KAZ
+Asia,Kuwait,1,KWT
+Asia,Kyrgyzstan,1,KGZ
+Asia,Lao People's Democratic Republic,1,LAO
+Asia,"Macao, China",0,
+Asia,Maldives,1,MDV
+Asia,Mongolia,1,MNG
+Asia,Myanmar,1,MMR
+Asia,Nepal,1,NPL
+Asia,Oman,1,OMN
+Asia,Pakistan,1,PAK
+Asia,Qatar,1,QAT
+Asia,Republic of Korea,1,KOR
+Asia,Russian Federation,1,RUS
+Asia,Saudi Arabia,1,SAU
+Asia,Sri Lanka,1,LKA
+Asia,Tajikistan,1,TJK
+Asia,Thailand,1,THA
+Asia,Turkmenistan,0,TKM
+Asia,United Arab Emirates,1,ARE
+Asia,Uzbekistan,1,UZB
+Asia,Viet Nam,1,VNM
+Asia,Yemen,0,YEM
+South America,Argentina,1,ARG
+South America,Bolivia (Plurinational State of),0,BOL
+South America,Brazil,1,BRA
+South America,Chile,1,CHL
+South America,Colombia,0,COL
+South America,Ecuador,1,ECU
+South America,France - Guiana,0,
+South America,Guyana,0,GUY
+South America,Paraguay,1,PRY
+South America,Peru,0,PER
+South America,Suriname,1,SUR
+South America,Uruguay,0,URY
+South America,"Venezuela, Bolivarian Republic of",0,VEN
+North and Central America,Antigua and Barbuda,0,ATG
+North and Central America,Bahamas,1,BHS
+North and Central America,Barbados,0,BRB
+North and Central America,Belize,1,BLZ
+North and Central America,British Caribbean Territories,0,
+North and Central America,Canada,1,CAN
+North and Central America,Costa Rica,1,CRI
+North and Central America,Cuba,1,CUB
+North and Central America,Curaçao and Sint Maarten,0,
+North and Central America,Dominica,0,DMA
+North and Central America,Dominican Republic,1,DOM
+North and Central America,El Salvador,1,SLV
+North and Central America,France - Guadeloupe,0,
+North and Central America,France - Martinique,0,
+North and Central America,Guatemala,0,GTM
+North and Central America,Haiti,0,HTI
+North and Central America,Honduras,0,HND
+North and Central America,Jamaica,1,JAM
+North and Central America,Mexico,0,MEX
+North and Central America,Nicaragua,0,NIC
+North and Central America,Panama,1,PAN
+North and Central America,Saint Lucia,1,LCA
+North and Central America,Trinidad and Tobago,1,TTO
+North and Central America,UK - Bermuda,0,
+North and Central America,United States of America,1,USA
+South West Pacific,Australia,1,AUS
+South West Pacific,Brunei Darussalam,1,BRN
+South West Pacific,Cook Islands,0,COK
+South West Pacific,Fiji,1,FJI
+South West Pacific,French Polynesia,0,PYF
+South West Pacific,Indonesia,1,IDN
+South West Pacific,Kiribati,0,KIR
+South West Pacific,Malaysia,1,MYS
+South West Pacific,Micronesia (Federated States of),0,FSM
+South West Pacific,Nauru,0,NRU
+South West Pacific,New Caledonia,1,NCL
+South West Pacific,New Zealand,1,NZL
+South West Pacific,Niue,0,NIU
+South West Pacific,Papua New Guinea,0,PNG
+South West Pacific,Philippines,0,PHL
+South West Pacific,Samoa,0,WSM
+South West Pacific,Singapore,1,SGP
+South West Pacific,Solomon Islands,0,SLB
+South West Pacific,Timor-Leste,0,TLS
+South West Pacific,Tonga,0,TON
+South West Pacific,Tuvalu,0,TUV
+South West Pacific,Vanuatu,1,VUT
+Europe,Albania,0,ALB
+Europe,Andorra,0,AND
+Europe,Armenia,1,ARM
+Europe,Austria,1,AUT
+Europe,Azerbaijan,1,AZE
+Europe,Belarus,1,BLR
+Europe,Belgium,1,BEL
+Europe,Bosnia and Herzegovina,1,BIH
+Europe,Bulgaria,0,BGR
+Europe,Croatia,1,HRV
+Europe,Cyprus,1,CYP
+Europe,Czechia,1,CZE
+Europe,Denmark,1,DNK
+Europe,Estonia,1,EST
+Europe,Finland,0,FIN
+Europe,France,1,FRA
+Europe,Georgia,0,GEO
+Europe,Germany,1,DEU
+Europe,Greece,1,GRC
+Europe,Hungary,1,HUN
+Europe,Iceland,0,ISL
+Europe,Ireland,1,IRL
+Europe,Israel,1,ISR
+Europe,Italy,1,ITA
+Europe,Jordan,0,JOR
+Europe,Kazakhstan,1,KAZ
+Europe,Latvia,1,LVA
+Europe,Lebanon,0,LBN
+Europe,Lithuania,1,LTU
+Europe,Luxembourg,1,LUX
+Europe,Malta,0,MLT
+Europe,Monaco,0,MCO
+Europe,Montenegro,0,MNE
+Europe,Netherlands,0,NLD
+Europe,North Macedonia,1,MKD
+Europe,Norway,1,NOR
+Europe,Poland,1,POL
+Europe,Portugal,1,PRT
+Europe,Republic of Moldova,1,MDA
+Europe,Romania,1,ROU
+Europe,Russian Federation,1,RUS
+Europe,Serbia,1,SRB
+Europe,Slovakia,1,SVK
+Europe,Slovenia,1,SVN
+Europe,Spain,1,ESP
+Europe,Sweden,1,SWE
+Europe,Switzerland,0,CHE
+Europe,Syrian Arab Republic,0,SYR
+Europe,Türkiye,1,TUR
+Europe,UK - Guernsey,0,
+Europe,UK - Isle of Man,0,
+Europe,UK - Jersey,0,
+Europe,Ukraine,1,UKR
+Europe,United Kingdom of Great Britain and Northern Ireland,1,GBR

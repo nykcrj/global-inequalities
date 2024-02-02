@@ -1,0 +1,17 @@
+#!/usr/bin/env python
+
+DATAPATH = './data'
+HEX_RES = 2
+
+#color_palette = \
+#	['#CC6677', '#332288', '#DDCC77', '#117733', '#88CCEE', '#882255', '#44AA99', '#999933', '#AA4499']
+
+COLOR1 = '#CC6677'
+COLOR2 = '#332288'
+COLOR3 = '#DDCC77'
+COLOR4 = '#117733'
+COLOR5 = '#88CCEE'
+COLOR6 = '#882255'
+COLOR7 = '#44AA99'
+COLOR8 = '#999933'
+COLOR9 = '#AA4499'
